@@ -1,0 +1,2 @@
+The source code contained in this folder and subfolders is provided to you under the Fab Standard License.
+See https://www.fab.com/eula for license terms.

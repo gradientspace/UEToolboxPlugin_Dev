@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FabPackager": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\\\git\\\\UEToolboxFabBuild_NoBinaries\\\\SOURCE_DISTRIB\\\\GradientspaceUEToolbox\\\\"
+    }
+  }
+}
